@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 7dc68f8d72d73e740a7b49125e0e3c79
+timeCreated: 1467938605
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MagmaBlue-die-00
+    21300002: MagmaBlue-die-01
+    21300004: MagmaBlue-die-02
+    21300006: MagmaBlue-die-03
+    21300008: MagmaBlue-die-04
+    21300010: MagmaBlue-die-05
+    21300012: MagmaBlue-die-06
+    21300014: MagmaBlue-die-07
+    21300016: MagmaBlue-die-08
+    21300018: MagmaBlue-die-09
+    21300020: MagmaBlue-die-10
+    21300022: MagmaBlue-die-11
+    21300024: MagmaBlue-die-12
+    21300026: MagmaBlue-die-13
+    21300028: MagmaBlue-die-14
+    21300030: MagmaBlue-die-15
+    21300032: MagmaBlue-die-16
+    21300034: MagmaBlue-die-17
+    21300036: MagmaBlue-die-18
+    21300038: MagmaBlue-die-19
+    21300040: MagmaBlue-die-20
+    21300042: MagmaBlue-die-21
+    21300044: MagmaBlue-die-22
+    21300046: MagmaBlue-die-23
+    21300048: MagmaBlue-die-24
+    21300050: MagmaBlue-die-25
+    21300052: MagmaBlue-die-26
+    21300054: MagmaBlue-die-27
+    21300056: MagmaBlue-die-28
+    21300058: MagmaBlue-die-29
+    21300060: MagmaBlue-die-30
+    21300062: MagmaBlue-die-31
+    21300064: MagmaBlue-die-32
+    21300066: MagmaBlue-die-33
+    21300068: MagmaBlue-die-34
+    21300070: MagmaBlue-die-35
+    21300072: MagmaBlue-die-36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 7
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MagmaBlue-die-00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1694
+        width: 217
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-01
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1700
+        width: 218
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-02
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1871
+        width: 219
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1864
+        width: 220
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-04
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1859
+        width: 218
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-05
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1688
+        width: 214
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1500
+        width: 208
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-07
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 825
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-08
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 823
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-09
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 443
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 411
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-11
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 614
+        width: 191
+        height: 207
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 443
+        width: 193
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 615
+        width: 193
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-14
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 778
+        width: 195
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 637
+        width: 194
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-16
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 986
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 819
+        width: 197
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 654
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 845
+        width: 199
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-20
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1014
+        width: 203
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1693
+        width: 213
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-22
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1881
+        width: 216
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1519
+        width: 211
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1525
+        width: 208
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-25
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1519
+        width: 206
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1331
+        width: 205
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-27
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1356
+        width: 206
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1350
+        width: 206
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1012
+        width: 204
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-30
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1350
+        width: 205
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 993
+        width: 204
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1187
+        width: 205
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1181
+        width: 205
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1162
+        width: 205
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-35
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1181
+        width: 205
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-die-36
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1018
+        width: 205
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

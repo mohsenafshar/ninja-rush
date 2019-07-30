@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 213dfa8060e1b0d4a97dfa8ecc73d7f5
+timeCreated: 1467651568
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: preview copy_0
+    21300002: preview copy_1
+    21300004: preview copy_2
+    21300006: preview copy_3
+    21300008: preview copy_4
+    21300010: preview copy_5
+    21300012: preview copy_6
+    21300014: Platform Ice_0
+    21300016: Platform Ice_1
+    21300018: Platform Ice_2
+    21300020: Platform Ice_3
+    21300022: Platform Ice_4
+    21300024: Platform Ice_5
+    21300026: Platform Ice_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 6
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Platform Ice_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 38
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Platform Ice_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 207
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Platform Ice_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 369
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Platform Ice_3
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 372
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Platform Ice_4
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 207
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Platform Ice_5
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 207
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Platform Ice_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 39
+        width: 510
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

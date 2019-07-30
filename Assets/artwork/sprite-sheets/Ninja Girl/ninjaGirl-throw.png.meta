@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 19a480149f2859e45907fcb3ec25703f
+timeCreated: 1467902674
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ninjaGirl-throw_0
+    21300002: ninjaGirl-throw_1
+    21300004: ninjaGirl-throw_2
+    21300006: ninjaGirl-throw_3
+    21300008: ninjaGirl-throw_4
+    21300010: ninjaGirl-throw_5
+    21300012: ninjaGirl-throw_6
+    21300014: ninjaGirl-throw_7
+    21300016: ninjaGirl-throw_8
+    21300018: ninjaGirl-throw_9
+    21300020: ninjaGirl-throw_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ninjaGirl-throw_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 558
+        width: 292
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-throw_1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 555
+        width: 285
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-throw_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 555
+        width: 311
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-throw_3
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 555
+        width: 363
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-throw_4
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 555
+        width: 288
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-throw_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 39
+        width: 288
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-throw_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 41
+        width: 288
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-throw_7
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 38
+        width: 328
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-throw_8
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 36
+        width: 315
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-throw_9
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 38
+        width: 286
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-throw_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 162
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

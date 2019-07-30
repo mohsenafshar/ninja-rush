@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: e5a29b82512432c4ab8a7f89221756ea
+timeCreated: 1467902692
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ninjaGirl-jump-throw_0
+    21300002: ninjaGirl-jump-throw_1
+    21300004: ninjaGirl-jump-throw_2
+    21300006: ninjaGirl-jump-throw_3
+    21300008: ninjaGirl-jump-throw_4
+    21300010: ninjaGirl-jump-throw_5
+    21300012: ninjaGirl-jump-throw_6
+    21300014: ninjaGirl-jump-throw_7
+    21300016: ninjaGirl-jump-throw_8
+    21300018: ninjaGirl-jump-throw_9
+    21300020: ninjaGirl-jump-throw_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ninjaGirl-jump-throw_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1004
+        width: 310
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-jump-throw_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1003
+        width: 300
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-jump-throw_2
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1005
+        width: 316
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-jump-throw_3
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1009
+        width: 355
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-jump-throw_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 514
+        width: 361
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-jump-throw_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 515
+        width: 365
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-jump-throw_6
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 515
+        width: 362
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-jump-throw_7
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 515
+        width: 334
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-jump-throw_8
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 468
+        width: 162
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-jump-throw_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 13
+        width: 306
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ninjaGirl-jump-throw_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 9
+        width: 305
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 7fd4b6d8e550eff4d88a7de30507b6db
+timeCreated: 1503231493
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ninja-jump-throw_0
+    21300002: ninja-jump-throw_1
+    21300004: ninja-jump-throw_2
+    21300006: ninja-jump-throw_3
+    21300008: ninja-jump-throw_4
+    21300010: ninja-jump-throw_5
+    21300012: ninja-jump-throw_6
+    21300014: ninja-jump-throw_7
+    21300016: ninja-jump-throw_8
+    21300018: ninja-jump-throw_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 13
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ninja-jump-throw_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 590
+        width: 302
+        height: 418
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja-jump-throw_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 598
+        width: 308
+        height: 410
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja-jump-throw_2
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 604
+        width: 310
+        height: 404
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja-jump-throw_3
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 606
+        width: 338
+        height: 402
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja-jump-throw_4
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 606
+        width: 348
+        height: 402
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja-jump-throw_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 168
+        width: 354
+        height: 408
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja-jump-throw_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 174
+        width: 354
+        height: 402
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja-jump-throw_7
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 168
+        width: 324
+        height: 408
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja-jump-throw_8
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 166
+        width: 304
+        height: 410
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja-jump-throw_9
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 160
+        width: 304
+        height: 416
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 4a737df1e5e47cd47a4f92d957853c99
+timeCreated: 1467897566
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MagmaBlue-idle-00
+    21300002: MagmaBlue-idle-01
+    21300004: MagmaBlue-idle-02
+    21300006: MagmaBlue-idle-03
+    21300008: MagmaBlue-idle-04
+    21300010: MagmaBlue-idle-05
+    21300012: MagmaBlue-idle-06
+    21300014: MagmaBlue-idle-07
+    21300016: MagmaBlue-idle-08
+    21300018: MagmaBlue-idle-09
+    21300020: MagmaBlue-idle-10
+    21300022: MagmaBlue-idle-11
+    21300024: MagmaBlue-idle-12
+    21300026: MagmaBlue-idle-13
+    21300028: MagmaBlue-idle-14
+    21300030: MagmaBlue-idle-15
+    21300032: MagmaBlue-idle-16
+    21300034: MagmaBlue-idle-17
+    21300036: MagmaBlue-idle-18
+    21300038: MagmaBlue-idle-19
+    21300040: MagmaBlue-idle-20
+    21300042: MagmaBlue-idle-21
+    21300044: MagmaBlue-idle-22
+    21300046: MagmaBlue-idle-23
+    21300048: MagmaBlue-idle-24
+    21300050: MagmaBlue-idle-25
+    21300052: MagmaBlue-idle-26
+    21300054: MagmaBlue-idle-27
+    21300056: MagmaBlue-idle-28
+    21300058: MagmaBlue-idle-29
+    21300060: MagmaBlue-idle-30
+    21300062: MagmaBlue-idle-31
+    21300064: MagmaBlue-idle-32
+    21300066: MagmaBlue-idle-33
+    21300068: MagmaBlue-idle-34
+    21300070: MagmaBlue-idle-35
+    21300072: MagmaBlue-idle-36
+    21300074: MagmaBlue-idle-37
+    21300076: MagmaBlue-idle-38
+    21300078: MagmaBlue-idle-39
+    21300080: MagmaBlue-idle-40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 7
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MagmaBlue-idle-00
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 67
+        width: 217
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-01
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 68
+        width: 217
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-02
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 219
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-03
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 430
+        width: 220
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-04
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 605
+        width: 223
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-05
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 784
+        width: 225
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-06
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 788
+        width: 227
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-07
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1324
+        width: 230
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-08
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1506
+        width: 234
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-09
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1685
+        width: 237
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1864
+        width: 238
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1864
+        width: 240
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1865
+        width: 240
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-13
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1864
+        width: 238
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1684
+        width: 237
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-15
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1684
+        width: 235
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1504
+        width: 232
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 967
+        width: 229
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-18
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 964
+        width: 227
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 786
+        width: 226
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 608
+        width: 225
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 606
+        width: 225
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-22
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 789
+        width: 226
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 426
+        width: 222
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 966
+        width: 229
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1325
+        width: 231
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1505
+        width: 231
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-27
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1684
+        width: 231
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1504
+        width: 231
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-29
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1146
+        width: 230
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-30
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 968
+        width: 229
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1145
+        width: 230
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-32
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1147
+        width: 230
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-33
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1326
+        width: 231
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1326
+        width: 231
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-35
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1144
+        width: 229
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-36
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 609
+        width: 225
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-37
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 429
+        width: 223
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-38
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 426
+        width: 220
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 247
+        width: 218
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-idle-40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 67
+        width: 217
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

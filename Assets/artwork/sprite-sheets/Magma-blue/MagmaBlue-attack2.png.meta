@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 202a92b610137b642a5922d538b8d001
+timeCreated: 1467938828
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MagmaBlue-attack2-00
+    21300002: MagmaBlue-attack2-01
+    21300004: MagmaBlue-attack2-02
+    21300006: MagmaBlue-attack2-03
+    21300008: MagmaBlue-attack2-04
+    21300010: MagmaBlue-attack2-05
+    21300012: MagmaBlue-attack2-06
+    21300014: MagmaBlue-attack2-07
+    21300016: MagmaBlue-attack2-08
+    21300018: MagmaBlue-attack2-09
+    21300020: MagmaBlue-attack2-10
+    21300022: MagmaBlue-attack2-11
+    21300024: MagmaBlue-attack2-12
+    21300026: MagmaBlue-attack2-13
+    21300028: MagmaBlue-attack2-14
+    21300030: MagmaBlue-attack2-15
+    21300032: MagmaBlue-attack2-16
+    21300034: MagmaBlue-attack2-17
+    21300036: MagmaBlue-attack2-18
+    21300038: MagmaBlue-attack2-19
+    21300040: MagmaBlue-attack2-20
+    21300042: MagmaBlue-attack2-21
+    21300044: MagmaBlue-attack2-22
+    21300046: MagmaBlue-attack2-23
+    21300048: MagmaBlue-attack2-24
+    21300050: MagmaBlue-attack2-25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 7
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MagmaBlue-attack2-00
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1677
+        width: 217
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-01
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1680
+        width: 224
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-02
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1868
+        width: 234
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1858
+        width: 236
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-04
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1670
+        width: 228
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-05
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1847
+        width: 224
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-06
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1851
+        width: 231
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1646
+        width: 225
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-08
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 879
+        width: 173
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-09
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 915
+        width: 179
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-10
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1118
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-11
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1121
+        width: 198
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 919
+        width: 201
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 947
+        width: 203
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1138
+        width: 205
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1318
+        width: 207
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1279
+        width: 206
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1103
+        width: 203
+        height: 213
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-18
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1483
+        width: 207
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1501
+        width: 215
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1110
+        width: 205
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-21
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1314
+        width: 204
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1331
+        width: 207
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1477
+        width: 215
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-24
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1511
+        width: 217
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagmaBlue-attack2-25
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1677
+        width: 217
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
